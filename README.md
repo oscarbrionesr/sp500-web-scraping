@@ -1,5 +1,5 @@
 # sp500-web-scraping
 
-This repository contains the code I used to collect data from two websites that have information on the S&P 500 index for analysis on publiclly traded companies.
+This repository contains the code I used to collect and explore data from two websites that have information on the S&P 500 index for analysis on publiclly traded companies.
 
-The repository contains the final data set in a csv file
+The repository contains the final data set in a csv file as well as graphics in the jupiter notebook file
