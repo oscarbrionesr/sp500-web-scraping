@@ -1,4 +1,4 @@
-# sp500-web-scraping
+# S&&500 Web Scraping
 
 This repository contains the code I used to collect and explore data from two websites that have information on the S&P 500 index for analysis on publiclly traded companies.
 
